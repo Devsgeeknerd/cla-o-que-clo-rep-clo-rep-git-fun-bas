@@ -1,15 +1,15 @@
 <!-- Título -->
-# Clonando Repositórios no GitHub
+# O Que é a Clonagem de Repositórios
 
 ***Conteúdo da Aula:***
 
-* Comandos utilizados:
-  * git clone linkDoRepositorio;
-  * git log;
-  * git status;
-  * git add nomeDoArquivo;
-  * git commit -m "mensagemBreve"
-  * git push origin master;
+Quando um código é hospedado em um repositório externo, seja ele o Github, Gitlab ou Bitbucket e queremos modificá-lo, precisamos que este código esteja disponível localmente em nossa máquina, certo?
+
+Para isso, precisamos de uma cópia deste código.
+
+A esta cópia, damos o nome de "clone".
+
+Basicamente a clonagem de um repositório é a maneira mais correta de realizar o "download" de um código e manter o link com o repositório original, permitindo que novos commits possam ser feitos.
 
 <!-- Informações -->
 ## &#8505; Informações
